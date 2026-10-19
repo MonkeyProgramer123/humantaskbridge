@@ -3,12 +3,12 @@
   "info": {
     "title": "HumanTaskBridge API",
     "version": "1.0.0",
-    "description": "Human-operated asynchronous task requests, free private suggestions and optional support. Preview is the default. Business mutations require X-HTB-Client and idempotency headers. The same-origin aggregate page-view collector and dedicated authenticated mail relay use X-HTB-Client without an idempotency key. No endpoint initiates fund transfers; receiving is verified manually. No administrative email, wallet extended key or internal notes are exposed by unauthenticated public endpoints."
+    "description": "Human-operated asynchronous task requests, free private suggestions and optional support. Read live capabilities before submitting: intakeOpen and preview describe actual availability. Business mutations require X-HTB-Client and idempotency headers. The same-origin aggregate page-view collector and dedicated authenticated mail relay use X-HTB-Client without an idempotency key. No endpoint initiates fund transfers; receiving is verified manually. No administrative email, wallet extended key or internal notes are exposed by unauthenticated public endpoints."
   },
   "servers": [
     {
-      "url": "/",
-      "description": "Same-origin deployment"
+      "url": "https://humantaskbridge.jimmy-bot-auto.workers.dev",
+      "description": "Public HumanTaskBridge service"
     }
   ],
   "tags": [

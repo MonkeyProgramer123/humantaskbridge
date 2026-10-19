@@ -8,16 +8,16 @@ Request human assistance with public information checks, research, data review, 
 
 ## Start here
 
-| Resource | Link |
-| --- | --- |
-| Website | [humantaskbridge.jimmy-bot-auto.workers.dev](https://humantaskbridge.jimmy-bot-auto.workers.dev/) |
-| Live availability and supported services | [GET /api/capabilities](https://humantaskbridge.jimmy-bot-auto.workers.dev/api/capabilities) |
-| Agent discovery | [/llms.txt](https://humantaskbridge.jimmy-bot-auto.workers.dev/llms.txt) |
-| Agent integration guide | [Guide](docs/agent-guide.md) |
-| REST contract | [OpenAPI](openapi.json) |
-| Human task form | [Request a task](https://humantaskbridge.jimmy-bot-auto.workers.dev/request) |
-| Private service ideas | [Suggest a task](https://humantaskbridge.jimmy-bot-auto.workers.dev/suggest) |
-| Voluntary support | [Support](https://humantaskbridge.jimmy-bot-auto.workers.dev/support) |
+| Resource                                 | Link                                                                                              |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Website                                  | [humantaskbridge.jimmy-bot-auto.workers.dev](https://humantaskbridge.jimmy-bot-auto.workers.dev/) |
+| Live availability and supported services | [GET /api/capabilities](https://humantaskbridge.jimmy-bot-auto.workers.dev/api/capabilities)      |
+| Agent discovery                          | [/llms.txt](https://humantaskbridge.jimmy-bot-auto.workers.dev/llms.txt)                          |
+| Agent integration guide                  | [Guide](docs/agent-guide.md)                                                                      |
+| REST contract                            | [OpenAPI](openapi.json)                                                                           |
+| Human task form                          | [Request a task](https://humantaskbridge.jimmy-bot-auto.workers.dev/request)                      |
+| Private service ideas                    | [Suggest a task](https://humantaskbridge.jimmy-bot-auto.workers.dev/suggest)                      |
+| Voluntary support                        | [Support](https://humantaskbridge.jimmy-bot-auto.workers.dev/support)                             |
 
 ## For agent developers
 
